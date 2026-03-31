@@ -1,12 +1,12 @@
 # Retail Sales & Store Performance Dashboard (Power BI)
 
-Power BI dashboard focused on analyzing retail sales, store performance, and transaction trends using the Adventure Works dataset.
+Power BI dashboard focused on analyzing retail sales, store performance and transaction trends using the Adventure Works dataset.
 
 ---
 
 ## Overview
 
-This project presents a retail analytics solution designed to provide insights into store performance, product trends, and sales distribution across locations.  
+This project presents a retail analytics solution designed to provide insights into store performance, product trends and sales distribution across locations.  
 It enables users to explore key business metrics and identify top-performing stores and products.
 
 ---
@@ -18,7 +18,7 @@ It enables users to explore key business metrics and identify top-performing sto
 - Time-based analysis (YTD, rolling metrics, period comparisons)  
 - Store and product performance insights  
 - Geographic analysis using map visuals  
-- Interactive filtering by country, store, and product  
+- Interactive filtering by country, store and product  
 
 ---
 
@@ -33,7 +33,7 @@ It enables users to explore key business metrics and identify top-performing sto
 ## Dashboard Preview
 
 ### Main Dashboard
-![Dashboard](page1-ToplinePerformance.png)
+![Dashboard](Page1-ToplinePerformance.png)
 
 ---
 
